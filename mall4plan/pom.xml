@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>pom</packaging>
     <modules>
-        <module>auth</module>
-        <module>api</module>
+        <module>mall4plan-auth</module>
+        <module>mall4plan-api</module>
         <module>mall4plan-biz</module>
         <module>mall4plan-gateway</module>
         <module>mall4plan-common</module>
